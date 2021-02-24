@@ -1,5 +1,5 @@
 class hello{
-    public static calfactoral(x){
+    public static calfactorial(x){
         
     }
     public static void main(String[] args) {
