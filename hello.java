@@ -1,3 +1,6 @@
+class demo{
+}
+
 class hello{
     public static calfactorial(x){
         
